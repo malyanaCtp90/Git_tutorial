@@ -2,3 +2,4 @@ Git is easy and useful.
 trust your self
 you can do that.
 change in the master by other person.
+this will be close the issue 6
